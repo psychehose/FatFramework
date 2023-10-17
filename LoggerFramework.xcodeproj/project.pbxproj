@@ -23,12 +23,14 @@
 /* Begin PBXBuildFile section */
 		779019232ADD2977002963AA /* LoggerFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = 779019222ADD2977002963AA /* LoggerFramework.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7790192A2ADD2985002963AA /* Logger.swift in Sources */ = {isa = PBXBuildFile; fileRef = 779019292ADD2985002963AA /* Logger.swift */; };
+		7790197A2ADE43A5002963AA /* LoggerFramework.m in Sources */ = {isa = PBXBuildFile; fileRef = 779019792ADE43A5002963AA /* LoggerFramework.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		7790191F2ADD2977002963AA /* LoggerFramework.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = LoggerFramework.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		779019222ADD2977002963AA /* LoggerFramework.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LoggerFramework.h; sourceTree = "<group>"; };
 		779019292ADD2985002963AA /* Logger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Logger.swift; sourceTree = "<group>"; };
+		779019792ADE43A5002963AA /* LoggerFramework.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LoggerFramework.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 			children = (
 				779019222ADD2977002963AA /* LoggerFramework.h */,
 				779019292ADD2985002963AA /* Logger.swift */,
+				779019792ADE43A5002963AA /* LoggerFramework.m */,
 			);
 			path = LoggerFramework;
 			sourceTree = "<group>";
@@ -171,6 +174,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7790197A2ADE43A5002963AA /* LoggerFramework.m in Sources */,
 				7790192A2ADD2985002963AA /* Logger.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
