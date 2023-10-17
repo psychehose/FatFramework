@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/psychehose/Library/Developer/Xcode/DerivedData/LoggerFramework-cqekgfyerzcajzeqpvpovmdoludr/Build/Intermediates.noindex/ArchiveIntermediates/FatFramework/BuildProductsPath/Release-iphonesimulator/LoggerFramework.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/psychehose/Study/iOSLaboratory/LoggerFramework/build/LoggerFramework.build/Release-iphonesimulator/LoggerFramework.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/psychehose/Library/Developer/Xcode/DerivedData/LoggerFramework-cqekgfyerzcajzeqpvpovmdoludr/Build/Intermediates.noindex/ArchiveIntermediates/FatFramework/BuildProductsPath/Release-iphonesimulator/LoggerFramework.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "LoggerFramework-Swift.h",
+      'external-contents': "/Users/psychehose/Study/iOSLaboratory/LoggerFramework/build/LoggerFramework.build/Release-iphonesimulator/LoggerFramework.build/unextended-interface-header.h",
+    }]
+    }]
+}

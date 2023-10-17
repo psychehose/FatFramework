@@ -1,0 +1,49 @@
+{
+  "main_library": {
+    "exported_symbols": [
+      {
+        "data": {
+          "global": [
+            "_$s15LoggerFramework0a2InB0CMm",
+            "_$s15LoggerFramework0a2InB0CMa",
+            "_$s15LoggerFramework0a2InB0CMn",
+            "_$s15LoggerFramework0a2InB0CfD",
+            "_$s15LoggerFramework0a2InB0Cfd",
+            "_$s15LoggerFramework0a2InB0C7LoggingyS2SFZ",
+            "_LoggerFrameworkVersionString",
+            "_LoggerFrameworkVersionNumber",
+            "_$s15LoggerFramework0a2InB0CN"
+          ]
+        }
+      }
+    ],
+    "flags": [
+      {
+        "attributes": [
+          "not_app_extension_safe"
+        ]
+      }
+    ],
+    "install_names": [
+      {
+        "name": "@rpath/LoggerFramework.framework/LoggerFramework"
+      }
+    ],
+    "swift_abi": [
+      {
+        "abi": 7
+      }
+    ],
+    "target_info": [
+      {
+        "min_deployment": "17",
+        "target": "x86_64-ios-simulator"
+      },
+      {
+        "min_deployment": "17",
+        "target": "arm64-ios-simulator"
+      }
+    ]
+  },
+  "tapi_tbd_version": 5
+}

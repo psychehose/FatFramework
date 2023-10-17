@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)"
+options: "d7a23dab252996443b11d9d55eeb464ccf57bbcd1b46dc1da00b5a0abf499e8f"
+build_start_time: [1697508010, 150157000]
+build_end_time: [1697508012, 47016000]
+inputs:
+  "/Users/psychehose/Study/iOSLaboratory/LoggerFramework/LoggerFramework/Logger.swift": [1697444652, 377462856]

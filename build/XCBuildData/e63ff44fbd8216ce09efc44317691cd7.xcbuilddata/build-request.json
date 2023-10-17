@@ -1,0 +1,46 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "905ba76006342fa0b4c661817a155086aaea3b9425e68b930389a3eb0480f585"
+    }
+  ],
+  "containerPath" : "/Users/psychehose/Study/iOSLaboratory/LoggerFramework/LoggerFramework.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "configurationName" : "Release",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "BITCODE_GENERATION_MODE" : "bitcode",
+          "BUILD_DIR" : "/Users/psychehose/Library/Developer/Xcode/DerivedData/LoggerFramework-cqekgfyerzcajzeqpvpovmdoludr/Build/Intermediates.noindex/ArchiveIntermediates/FatFramework/BuildProductsPath",
+          "BUILD_ROOT" : "/Users/psychehose/Library/Developer/Xcode/DerivedData/LoggerFramework-cqekgfyerzcajzeqpvpovmdoludr/Build/Intermediates.noindex/ArchiveIntermediates/FatFramework/BuildProductsPath",
+          "ONLY_ACTIVE_ARCH" : "NO",
+          "OTHER_CFLAGS" : "-fembed-bitcode",
+          "SDKROOT" : "iphonesimulator17.0",
+          "TOOLCHAINS" : "com.apple.dt.toolchain.XcodeDefault"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "build",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO"
+        }
+      },
+      "toolchainOverride" : "com.apple.dt.toolchain.XcodeDefault"
+    }
+  },
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

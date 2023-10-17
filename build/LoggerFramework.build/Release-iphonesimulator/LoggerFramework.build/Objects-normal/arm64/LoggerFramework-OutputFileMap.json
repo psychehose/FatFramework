@@ -1,0 +1,15 @@
+{
+  "" : {
+    "const-values" : "/Users/psychehose/Study/iOSLaboratory/LoggerFramework/build/LoggerFramework.build/Release-iphonesimulator/LoggerFramework.build/Objects-normal/arm64/LoggerFramework-master.swiftconstvalues",
+    "dependencies" : "/Users/psychehose/Study/iOSLaboratory/LoggerFramework/build/LoggerFramework.build/Release-iphonesimulator/LoggerFramework.build/Objects-normal/arm64/LoggerFramework-master.d",
+    "diagnostics" : "/Users/psychehose/Study/iOSLaboratory/LoggerFramework/build/LoggerFramework.build/Release-iphonesimulator/LoggerFramework.build/Objects-normal/arm64/LoggerFramework-master.dia",
+    "emit-module-dependencies" : "/Users/psychehose/Study/iOSLaboratory/LoggerFramework/build/LoggerFramework.build/Release-iphonesimulator/LoggerFramework.build/Objects-normal/arm64/LoggerFramework-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/psychehose/Study/iOSLaboratory/LoggerFramework/build/LoggerFramework.build/Release-iphonesimulator/LoggerFramework.build/Objects-normal/arm64/LoggerFramework-master-emit-module.dia",
+    "swift-dependencies" : "/Users/psychehose/Study/iOSLaboratory/LoggerFramework/build/LoggerFramework.build/Release-iphonesimulator/LoggerFramework.build/Objects-normal/arm64/LoggerFramework-master.swiftdeps"
+  },
+  "/Users/psychehose/Study/iOSLaboratory/LoggerFramework/LoggerFramework/Logger.swift" : {
+    "index-unit-output-path" : "/LoggerFramework.build/Release-iphonesimulator/LoggerFramework.build/Objects-normal/arm64/Logger.o",
+    "llvm-bc" : "/Users/psychehose/Study/iOSLaboratory/LoggerFramework/build/LoggerFramework.build/Release-iphonesimulator/LoggerFramework.build/Objects-normal/arm64/Logger.bc",
+    "object" : "/Users/psychehose/Study/iOSLaboratory/LoggerFramework/build/LoggerFramework.build/Release-iphonesimulator/LoggerFramework.build/Objects-normal/arm64/Logger.o"
+  }
+}
